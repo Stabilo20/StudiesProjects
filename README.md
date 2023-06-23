@@ -11,4 +11,4 @@ The repository contains a few projects detailed beneath:
     - "Operator Sieci Komórkowej" - a report of implementation of a database (created using Microsoft SQL Server) - SQL
 
   * UAIM - Internet mobile services and applications:
-    - "SZOW - car workshop" - a whole project destined for the use of car workshop, delivery automatized by docker images with gitlab runners and all orchestrated using Kubernetes - C#, HTML + Razor, CSS
+    - "SZOW - car workshop" - a whole project destined for the use of car workshop, delivery automatized by docker images with gitlab runners and all orchestrated using Kubernetes (I was responsible for following modules: ServicesDataUSvc and MechanicApp) - C#, HTML + Razor, CSS
