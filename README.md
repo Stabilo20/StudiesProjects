@@ -12,3 +12,6 @@ The repository contains a few projects detailed beneath:
 
   * UAIM - Internet mobile services and applications:
     - "SZOW - car workshop" - a whole project destined for the use of car workshop, delivery automatized by docker images with gitlab runners and all orchestrated using Kubernetes (I was responsible for following modules: ServicesDataUSvc and MechanicApp) - C#, HTML + Razor, CSS
+   
+  * ZBI - Information security management:
+    - "Polityka bezpieczeństwa/Security policy" - a security policy designed from scratch for an imaginative organization, from the identification of its resources to individual security policies, in line with current standards
