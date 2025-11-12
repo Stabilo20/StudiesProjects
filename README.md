@@ -18,5 +18,5 @@ The repository contains a few projects detailed beneath:
     - "Polityka bezpieczeństwa/Security policy" - a security policy designed from scratch for an imaginative organization, from the identification of its resources to individual security policies, in line with current standards
   
   * Engineering Thesis/BSc Thesis:
-    - "Automated monitoring and reporting system for academic networks" - a self-deployed VM (based on Ubuntu 22.04 LTS) implementation of the GVM security scanner (formerly Open VAS) designed to maintain network security and manage asset inventory - mainly dedicated Python library
+    - "Automated monitoring and reporting system for academic networks" - a self-deployed VM (based on Ubuntu 22.04 LTS) implementation of the GVM security scanner (formerly Open VAS), built with a zero-config philosophy, designed to maintain network security and manage asset inventory - mainly dedicated Python library
     
